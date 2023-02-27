@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b757e77b-0c5c-44db-abe0-ee90180debf8" name="Changes" comment="" />
+    <list default="true" id="b757e77b-0c5c-44db-abe0-ee90180debf8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-SemiBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/inter/Inter-SemiBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter/Inter-SemiBold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/inter/Inter-SemiBold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Black.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/roboto/Roboto-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/roboto/Roboto-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,11 +47,14 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\images\features" />
+      <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff\src\fonts\inter" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff\src\fonts\roboto" />
@@ -52,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677508845405</updated>
-      <workItem from="1677508846757" duration="1540000" />
+      <workItem from="1677508846757" duration="2182000" />
     </task>
     <servers />
   </component>
