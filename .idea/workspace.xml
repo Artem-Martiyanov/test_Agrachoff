@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b757e77b-0c5c-44db-abe0-ee90180debf8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
     </list>
@@ -51,11 +52,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\fonts\inter" />
+      <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\fonts\roboto" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\images" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\images\UI" />
       <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets\images\features" />
-      <recent name="D:\Work\Verstak\2023\test_Agrachoff\assets" />
-      <recent name="D:\Work\Verstak\2023\test_Agrachoff" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677508845405</updated>
       <workItem from="1677508846757" duration="11552000" />
-      <workItem from="1677584737072" duration="12482000" />
+      <workItem from="1677584737072" duration="22960000" />
     </task>
     <servers />
   </component>
